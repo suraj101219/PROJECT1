@@ -1,4 +1,3 @@
 Flask
-pandas
 matplotlib
--e .
+pandas
